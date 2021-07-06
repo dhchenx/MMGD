@@ -1,0 +1,3 @@
+objectId,objectType,objectPath
+0,image,objects/1
+1,text,objects/2
